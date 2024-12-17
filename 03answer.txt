@@ -1,0 +1,6 @@
+A Database Management System (DBMS) is software used to store, retrieve, and manage databases.
+
+Need for DBMS:
+To overcome the challenges of file-based systems.
+To handle large volumes of data efficiently.
+To ensure data security, integrity, and concurrency.

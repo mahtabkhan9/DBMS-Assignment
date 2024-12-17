@@ -1,0 +1,6 @@
+Five Challenges of File-Based Systems Tackled by DBMS:
+1. Data Redundancy: DBMS reduces duplication by storing data centrally.
+2. Data Inconsistency: Centralized updates ensure consistency.
+3. Data Security: Access is restricted based on user roles.
+4. Concurrency Control: Multiple users can safely access data simultaneously.
+5. Efficient Querying: Complex data searches are simplified with query languages like SQL.

@@ -1,0 +1,11 @@
+Three-Schema Architecture in DBMS and its Advantages:
+
+Levels:
+External Schema: User-specific views of data.
+Conceptual Schema: Centralized representation of the entire database.
+Internal Schema: Physical storage of data.
+
+Advantages:
+Data Abstraction: Users are insulated from underlying complexities.
+Data Independence: Changes in one schema don’t affect others.
+Efficiency: Ensures optimal data access and management.

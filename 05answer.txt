@@ -1,0 +1,17 @@
+Each classification addresses different use cases, such as multi-user support for enterprise applications or distributed DBMS for geographically spread data.
+
+Types of Classification in DBMS:
+
+Based on Data Model:
+Relational (e.g., MySQL)
+Hierarchical
+Network
+Object-oriented
+
+Based on Users:
+Single-user
+Multi-user
+
+Based on Access:
+Centralized
+Distributed

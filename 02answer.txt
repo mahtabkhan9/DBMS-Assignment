@@ -1,0 +1,8 @@
+A file-based storage system involves storing data in separate files on a computer.
+
+Challenges:
+Data Redundancy: Repeated data across multiple files.
+Data Inconsistency: Changes in one file may not reflect in others.
+Lack of Security: Files lack sophisticated access controls.
+Limited Querying Capability: No efficient way to search or retrieve specific data.
+Concurrency Issues: Multiple users accessing the same file can cause conflicts.

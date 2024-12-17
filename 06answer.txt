@@ -1,0 +1,11 @@
+Significance of Data Modelling and its Types:
+
+Significance:
+Provides a blueprint of how data is stored and related.
+Enhances communication between stakeholders.
+Ensures consistency and accuracy in database design.
+
+Types:
+Conceptual: High-level model describing entities and their relationships.
+Logical: Detailed schema focusing on attributes and relationships.
+Physical: Defines how data is stored physically on storage devices.
